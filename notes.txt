@@ -9,3 +9,5 @@
 # Installation MkDocs
     pip install mkdocs
 
+# Create a new Project
+    mkdocs new blog
