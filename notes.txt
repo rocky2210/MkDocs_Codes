@@ -1,0 +1,11 @@
+# MkDocs Notes
+
+# Create Virtual environment
+    python -m venv anyname
+
+# Activate Virtual environment
+    source env/Scripts/activate
+
+# Installation MkDocs
+    pip install mkdocs
+
