@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Django Tutorials
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Learn Django, a powerful Python web framework, step-by-step. Whether you're a beginner or an experienced developer, this guide will help you build robust web applications.
 
-## Commands
+## What You'll Learn
+- Setting up Django
+- Understanding the MVC pattern
+- Creating RESTful APIs
+- Best practices for deployment
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Get started by exploring the [tutorial](tutorial/Introduction.md).
