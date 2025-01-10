@@ -11,3 +11,10 @@
 
 # Create a new Project
     mkdocs new blog
+
+# To Run MkDocs
+    mkdocs serve
+
+# Deploy in github 
+    mkdocs gh-deploy
+
