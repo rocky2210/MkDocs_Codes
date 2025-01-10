@@ -1,4 +1,5 @@
-site_name: Django Blog
+site_name: Django Blog  # Title of your site
+site_author: "Rocky"        # Author of the documentation
 
 nav:
   - Home: index.md
@@ -8,3 +9,35 @@ nav:
       - Installation: tutorial/Installation.md
       - REST API: tutorial/Restapi.md
       - Conclusion: tutorial/Conclusion.md
+
+theme:
+  name: "material"
+  font:
+    code: Roboto Mono
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: "teal"
+      accent: deep-purple
+
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: "teal"
+      accent: deep-purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de
