@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Django Blog
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Tutorial:
+      - Introduction: tutorial/Introduction.md
+      - Installation: tutorial/Installation.md
+      - REST API: tutorial/Restapi.md
+      - Conclusion: tutorial/Conclusion.md
