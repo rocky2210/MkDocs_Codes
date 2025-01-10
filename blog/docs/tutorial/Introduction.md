@@ -1,8 +1,3 @@
-
----
-
-#### `tutorial/introduction.md`
-```markdown
 # Introduction to Django
 
 Django is a Python web framework designed to help developers build robust, secure, and scalable web applications quickly.
